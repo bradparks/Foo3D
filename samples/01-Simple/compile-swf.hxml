@@ -1,0 +1,7 @@
+-main Sample
+-cp ../Common
+-cp src
+-swf-version 11
+-swf swf/Sample.swf
+-swf-header 800:600:60:ccccff
+-cp ../..

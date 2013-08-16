@@ -1,0 +1,6 @@
+-main Sample
+-cp ../Common
+-cpp cpp
+-D HXCPP_FLOAT32
+-cp ../..
+-cp src

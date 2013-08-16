@@ -1,0 +1,6 @@
+-main Sample
+-cp ../Common
+-cp ../..
+-js js/Sample.js
+-cp "C:\Users\Denis\Downloads\stdjs-master\stdjs-master\haxelib"
+-resource ../Common/resources/tekkblade.md2@blade_md2

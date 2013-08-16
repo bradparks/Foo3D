@@ -1,0 +1,6 @@
+-main Sample
+-cp ../Common
+-js js/Sample.js
+-cp C:\Users\Denis\Downloads\stdjs-master\stdjs-master\haxelib
+-cp ../..
+-cp src
