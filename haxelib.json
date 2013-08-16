@@ -1,0 +1,13 @@
+{
+  "name": "foo3D",
+  "license": "",
+  "tags": [],
+  "description": "",
+  "contributors": [""],
+  "releasenote": "See CHANGES.txt",
+  "version": "0.1",
+  "url": "",
+  "dependencies": {
+
+  }
+}
